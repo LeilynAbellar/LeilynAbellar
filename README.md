@@ -1,8 +1,8 @@
 ### Hello 👋
 
-#### A recent graduate with a degree in Information Systems Specializing in Business Analytics
+#### I'm Lei, a recent graduate with a degree in Information Systems Specializing in Business Analytics.
 
-Junior Data Analyst at [XtendOps]([https://www.xtendops.com/]);<br>
+Junior Data Analyst at [XtendOps](https://www.xtendops.com/);<br>
 
 - 🛠️ I lately work often with **R**, **T-SQL/SQL Server**, **Power BI**, and **Excel**
 - 👯 I’m looking to collaborate on **business analysis projects**
