@@ -1,10 +1,10 @@
 ### Hello 👋
 
-#### A Senior Year Information Systems Student Specializing in Business Analytics
+#### A recent graduate with a degree in Information Systems Specializing in Business Analytics
 
-Data Analytics Intern at [More Electric and Power Corporation]([https://morepower.com.ph/]);<br>
+Junior Data Analyst at [XtendOps]([https://www.xtendops.com/]);<br>
 
-- 🛠️ I lately work often with **R**, **Python**, **MySQL**, **PHP**, **Power BI**, and **Excel**
-- 👯 I’m looking to collaborate on **model-building projects**
+- 🛠️ I lately work often with **R**, **T-SQL/SQL Server**, **Power BI**, and **Excel**
+- 👯 I’m looking to collaborate on **business analysis projects**
 - ⚡ In my free time, **I enjoy reading or playing games**
 - 💬 `ping` me about **data preparation**, **data visualization**, and **dashboard development**
