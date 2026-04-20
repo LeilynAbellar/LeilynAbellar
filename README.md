@@ -4,7 +4,7 @@
 
 Junior Data Analyst at [XtendOps](https://www.xtendops.com/);<br>
 
-- 🛠️ I lately work often with **R**, **T-SQL/SQL Server**, **Tableau**, **Looker Studio**, **Python**, **Power BI**, and **Excel**
-- 👯 I’m looking to collaborate on **business and data analysis projects**
-- ⚡ In my free time, **I enjoy reading or playing games**
-- 💬 `ping` me about **data preparation**, **data visualization**, **dashboard development**, and **reports generation**
+- 🛠️ I lately work often with **Tableau**, **Looker Studio**, **Python**, **Google Sheets**, and **Excel**
+- 👯 I’m looking to collaborate on **data analysis projects relating to product and operational systems improvement**
+- ⚡ In my free time, **I enjoy watching videos, playing games, reading, and going to the gym**
+- 💬 `ping` me about **data preparation**, **dashboard development**, and **reports generation**
