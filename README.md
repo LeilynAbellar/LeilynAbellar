@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### I'm Lei, a recent graduate with a degree in Information Systems Specializing in Business Analytics.
+#### I'm Lei, an undergraduate with a degree in Information Systems Specializing in Business Analytics.
 
 Data Analyst at [XtendOps](https://www.xtendops.com/);<br>
 
